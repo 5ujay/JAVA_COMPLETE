@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Core/Addition/Addition.iml" filepath="$PROJECT_DIR$/Core/Addition/Addition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Arithmatic/Arithmatic.iml" filepath="$PROJECT_DIR$/Core/Arithmatic/Arithmatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/Core/ClassDemo/ClassDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/CompareTwoNums/CompareTwoNums.iml" filepath="$PROJECT_DIR$/Core/CompareTwoNums/CompareTwoNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Core.iml" filepath="$PROJECT_DIR$/Core/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/DoWhileLoop/DoWhileLoop.iml" filepath="$PROJECT_DIR$/Core/DoWhileLoop/DoWhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/EvenNums/EvenNums.iml" filepath="$PROJECT_DIR$/Core/EvenNums/EvenNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/FTOC/FTOC.iml" filepath="$PROJECT_DIR$/Core/FTOC/FTOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Fcatorial/Fcatorial.iml" filepath="$PROJECT_DIR$/Core/Fcatorial/Fcatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/Core/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/IfElse/IfElse.iml" filepath="$PROJECT_DIR$/Core/IfElse/IfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/LargestOfThreeNums/LargestOfThreeNums.iml" filepath="$PROJECT_DIR$/Core/LargestOfThreeNums/LargestOfThreeNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/Core/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Logical/Logical.iml" filepath="$PROJECT_DIR$/Core/Logical/Logical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Multiplication/Multiplication.iml" filepath="$PROJECT_DIR$/Core/Multiplication/Multiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Core/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Relational/Relational.iml" filepath="$PROJECT_DIR$/Core/Relational/Relational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/RndomNum/RndomNum.iml" filepath="$PROJECT_DIR$/Core/RndomNum/RndomNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Whileloop/Whileloop.iml" filepath="$PROJECT_DIR$/Core/Whileloop/Whileloop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/core.iml" filepath="$PROJECT_DIR$/.idea/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/Core/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/patternB/patternB.iml" filepath="$PROJECT_DIR$/Core/patternB/patternB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/patternC/patternC.iml" filepath="$PROJECT_DIR$/Core/patternC/patternC.iml" />
+    </modules>
+  </component>
+</project>

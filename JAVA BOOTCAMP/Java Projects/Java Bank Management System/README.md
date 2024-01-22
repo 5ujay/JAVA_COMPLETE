@@ -1,0 +1,15 @@
+# Bank_ATM_MS
+Bank Management System
+![LoginBankPage](https://user-images.githubusercontent.com/100415522/211253753-ef2a7e22-fa72-443d-a7ea-23f9736954bc.jpg)
+![SignupOne](https://user-images.githubusercontent.com/100415522/211253769-3dac938f-53c4-40f2-bd01-e443f9e5cf46.png)
+![signupTwo](https://user-images.githubusercontent.com/100415522/211253782-9fffd39c-227e-4ba8-b1b1-8bfc372eaa77.png)
+![signupThree](https://user-images.githubusercontent.com/100415522/211253794-94d85f30-1f89-48d3-b163-2f4340fd3e11.png)
+![loginSuccess](https://user-images.githubusercontent.com/100415522/211253860-ad860f77-2b54-4de5-9e8d-fba75c10dc5e.png)
+![ATM](https://user-images.githubusercontent.com/100415522/211253810-bffed9d5-2f27-423d-810e-699302b385fb.png)
+![Deposit](https://user-images.githubusercontent.com/100415522/211253819-810a61c1-1783-4f00-b1ff-e5e7eda32a2a.png)
+![Withdraw](https://user-images.githubusercontent.com/100415522/211253868-0ab91441-6ca7-4a28-bbbd-79f7feedbc0d.png)
+![balance](https://user-images.githubusercontent.com/100415522/211253839-cacccd1f-c135-4fa9-abf8-5705b37940c9.png)
+![recepit](https://user-images.githubusercontent.com/100415522/211253875-43212cfb-350a-4702-88ec-93689f441b51.png)
+![bams1](https://user-images.githubusercontent.com/100415522/211253883-d52aae40-29ad-41e2-aa8e-9154061370e2.png)
+![DBMS2](https://user-images.githubusercontent.com/100415522/211253892-dc1d9b55-8bc7-4f78-9a0b-77c2ddd81456.png)
+![DBMS3](https://user-images.githubusercontent.com/100415522/211253903-845582ea-541b-45f6-8f10-648691020b31.png)
